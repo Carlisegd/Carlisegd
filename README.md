@@ -1,7 +1,7 @@
 ### Olá!!! Eu sou a Carlise e você pode me chamar de Cacá  👋
 
 - 🌱 Estudando Desenvolmineto Full Stack 👩‍🎓
-- 🤗 Pronouns: ela/dela
+- 🤗 Pronome: ela/dela
 - 😍 Dedicada e comprometida com o que eu faço.
 - 👩🏽‍💻 Adoro estudar e buscar soluções inovadoras.🚀
 - 😄 Gosto de trabalhar em equipe, compartilhar conhecimento e conhecer pessoas.
