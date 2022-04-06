@@ -9,8 +9,8 @@
 
 ##
 
-<h3 align="left">Habilidades Técnicas:</h3>
- <div  style="display: inline_block"><br>
+<h3 align="center">Habilidades Técnicas:</h3>
+ <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,7 @@
  <img align="center" alt="material-ui" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg"  width="50" />
  <img align="center" alt="nodejs" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
 </div><br>
-<div >
+<div align="center" >
   <a href="https://github.com/Carlisegd">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlisegd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     
