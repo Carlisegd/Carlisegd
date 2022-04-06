@@ -19,6 +19,7 @@
   <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
  <img align="center" alt="material-ui" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg"  width="50" />
  <img align="center" alt="nodejs" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
+  <img align="center" alt="Ewerton.html" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div><br>
 <div align="center" >
   <a href="https://github.com/Carlisegd">
@@ -31,6 +32,7 @@
  
 <h3 align="left">Contatos:</h3>
 <div 
-  <a href = "mailto:carlisegd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://mail.google.com/mail/u/1/?ogbl#inbox"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
   <a href="https://www.linkedin.com/in/carlise-garbin-debona-b62002121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=51996396284"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5579998311993?style=for-the-badge&logo=whatsapp&logoColor=white "><a/>
 </div>
