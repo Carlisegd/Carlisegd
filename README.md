@@ -19,7 +19,17 @@
   <img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
  <img align="center" alt="material-ui" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/materialui/materialui-original.svg"  width="50" />
  <img align="center" alt="nodejs" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" />
-  <img align="center" alt="Git" height="80" whidth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg""> 
+  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />       
+  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Ts" height="30" width="80" src="https://user-images.githubusercontent.com/92445126/162367951-9fee5709-0e05-4424-bc1e-0a8615a2a9c5.png"/>
+          
+          
+           
+          
+
+
 </div><br>
 <div align="center" >
   <a href="https://github.com/Carlisegd">
