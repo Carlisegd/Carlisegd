@@ -23,8 +23,7 @@
 </div><br>
 <div align="center" >
   <a href="https://github.com/Carlisegd">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlisegd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlisegd&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlisegd&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
@@ -36,3 +35,6 @@
   <a href="https://www.linkedin.com/in/carlise-garbin-debona-b62002121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5551996396284"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-5579998311993?style=for-the-badge&logo=whatsapp&logoColor=white "><a/>
 </div>
+ 
+   ##
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
